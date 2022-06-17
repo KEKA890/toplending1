@@ -106,7 +106,7 @@ body {
 }
 /* --------------------------------------- */
 .aperture {
-  background: url(../toplending/img/background/IMAGEback.png);
+  background: url(../Toplending/img/background/IMAGEback.png);
   height: 716px;
   width: 1440px;
 }
@@ -160,7 +160,7 @@ body {
 }
 /* ------------------------------------------------*/
 .do {
-  background: url(../toplending/img/background/Rectangle.png);
+  background: url(../Toplending/img/background/Rectangle.png);
   padding: 116px 136px;
 }
 .do__title {
@@ -254,7 +254,7 @@ body {
 /* ---------------------------------------- */
 .sunset {
   height: 600px;
-  background: url(../toplending/img/background/IMAGEback2.png);
+  background: url(../Toplending/img/background/IMAGEback2.png);
 }
 .sunset__title {
   position: relative;
@@ -303,7 +303,7 @@ body {
 .tools {
   width: 1440px;
   height: 540px;
-  background: url(../toplending/img/background/Rectangle.png);
+  background: url(../Toplending/img/background/Rectangle.png);
   color: white;
 }
 .tools__subtitle {
@@ -383,7 +383,7 @@ body {
 }
 /* -------------------------- */
 .monstera {
-  background: url(../toplending/img/photos/IMAGE6.png);
+  background: url(../Toplending/img/photos/IMAGE6.png);
   height: 600px;
 }
 .monstera__title {
@@ -423,7 +423,7 @@ body {
 
 .star {
   height: 600px;
-  background: url(../toplending/img/background/IMAGEBACK3.png);
+  background: url(../Toplending/img/background/IMAGEBACK3.png);
 }
 .star__title {
   position: relative;
@@ -461,7 +461,7 @@ body {
 }
 /* -------------------------------------------- */
 .clients {
-  background: url(../toplending/img/background/Rectangle33.png);
+  background: url(../Toplending/img/background/Rectangle33.png);
   height: 500px;
 }
 .clients__title {
@@ -518,7 +518,7 @@ body {
 }
 /* ------------------------------------ */
 .need {
-  background: url(../toplending/img/background/Rectangle33.png);
+  background: url(../Toplending/img/background/Rectangle33.png);
   height: 414px;
 }
 .need__title {
